@@ -1,10 +1,16 @@
-# Mimic Them
+<p align="center">
+  <img src="docs/images/logo.svg" alt="MimicThem Logo" width="128" height="128">
+</p>
 
-**一键复刻爆款小红书小姐姐（小哥哥）**
+<h1 align="center">Mimic Them</h1>
+
+<p align="center"><strong>一键复刻爆款小红书小姐姐（小哥哥）</strong></p>
 
 输入小红书图文链接，使用字节seedream图像模型一键复刻爆款。
 
 ![MimicThem Preview](https://img.shields.io/badge/MimicThem-AI%20Clone-purple)
+
+![example](docs/images/example.png)
 
 ## 功能特点
 
@@ -96,6 +102,8 @@ npm run dev
 
 1. 打开浏览器访问 `http://localhost:3000`
 2. 复制一个小红书图文链接
+
+![copy_link](docs/images/copy_link.jpg)
 3. 粘贴到输入框
 4. 点击「一键复刻」
 5. 等待处理完成，查看生成的图片和文案
@@ -191,3 +199,9 @@ MIT License
 ## 免责声明
 
 本项目仅供学习和研究使用。请尊重原创作者的版权，不要将生成的内容用于商业用途或侵权行为，一切使用本项目产生的责任由使用者承担。
+
+## 支持作者
+
+如果对你有帮助，请作者喝杯咖啡吧～
+
+![alipay](docs/images/alipay.jpg) ![wechat_pay](docs/images/wechat_pay.png)

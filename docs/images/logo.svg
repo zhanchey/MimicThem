@@ -1,0 +1,28 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="redGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff4757"/>
+      <stop offset="100%" style="stop-color:#e84141"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- 展开的书 - 左页 -->
+  <path d="M64 24 L64 104 Q40 98, 16 104 L16 32 Q40 26, 64 24" fill="url(#redGradient)"/>
+  
+  <!-- 展开的书 - 右页 -->
+  <path d="M64 24 L64 104 Q88 98, 112 104 L112 32 Q88 26, 64 24" fill="url(#redGradient)"/>
+  
+  <!-- 左页 - 原图符号（简约照片图标） -->
+  <rect x="28" y="48" width="24" height="20" rx="2" fill="white" opacity="0.9"/>
+  <circle cx="34" cy="54" r="3" fill="#e84141"/>
+  <path d="M30 64 L36 58 L42 64 L48 56 L50 64" stroke="#e84141" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+  
+  <!-- 右页 - 复刻符号（星星 + 照片，代表AI生成） -->
+  <rect x="76" y="48" width="24" height="20" rx="2" fill="white" opacity="0.9"/>
+  <circle cx="82" cy="54" r="3" fill="#e84141"/>
+  <path d="M78 64 L84 58 L90 64 L96 56 L98 64" stroke="#e84141" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+  
+  <!-- 右页星星装饰 - AI魔法 -->
+  <path d="M102 40 L103.5 44 L108 45 L103.5 46 L102 50 L100.5 46 L96 45 L100.5 44 Z" fill="white"/>
+  <path d="M94 36 L95 38.5 L98 39 L95 39.5 L94 42 L93 39.5 L90 39 L93 38.5 Z" fill="white" opacity="0.7"/>
+</svg>
