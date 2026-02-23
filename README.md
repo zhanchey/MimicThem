@@ -103,7 +103,7 @@ npm run dev
 1. 打开浏览器访问 `http://localhost:3000`
 2. 复制一个小红书图文链接
 
-![copy_link](docs/images/copy_link.jpg)
+<img src="docs/images/copy_link.jpg" alt="copy_link" width="300">
 3. 粘贴到输入框
 4. 点击「一键复刻」
 5. 等待处理完成，查看生成的图片和文案
@@ -204,4 +204,7 @@ MIT License
 
 如果对你有帮助，请作者喝杯咖啡吧～
 
-![alipay](docs/images/alipay.jpg) ![wechat_pay](docs/images/wechat_pay.png)
+<p align="center">
+  <img src="docs/images/alipay.jpg" alt="alipay" width="200">
+  <img src="docs/images/wechat_pay.png" alt="wechat_pay" width="200">
+</p>
