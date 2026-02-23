@@ -1,0 +1,19 @@
+[api]
+# 火山引擎 API Key
+# 获取方式: https://console.volcengine.com/ark/region:ark+cn-beijing/apiKey
+ARK_API_KEY = your_api_key_here
+
+[generation]
+# 变体图片数量 (默认5张)
+variant_count = 5
+
+# 生成图片尺寸 (默认3072x4096, 3:4竖版)
+# 可选: 1K, 2K, 4K 或具体尺寸如 3072x4096
+image_size = 3072x4096
+
+# 使用的模型ID
+# 可选: seedream-4.5, seedream-4.0
+model_id = seedream-4.5
+
+# 是否添加水印 (默认false)
+watermark = false

@@ -1,0 +1,17 @@
+# MimicThem Backend Dependencies
+
+# Web Framework
+fastapi>=0.109.0
+uvicorn>=0.27.0
+
+# HTTP Client
+httpx>=0.26.0
+
+# OpenAI SDK (for Volcengine ARK API)
+openai>=1.12.0
+
+# HTML Parsing
+lxml>=5.1.0
+
+# Async File Operations
+aiofiles>=23.2.0
