@@ -209,4 +209,5 @@ MIT License
 <p align="center">
   <img src="docs/images/alipay.jpg" alt="alipay" width="200">
   <img src="docs/images/wechat_pay.png" alt="wechat_pay" width="200">
+  <img src="docs/images/contact.png" alt="contact" width="200">
 </p>
