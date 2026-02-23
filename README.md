@@ -205,6 +205,7 @@ MIT License
 ## 支持作者
 
 如果对你有帮助，请作者喝杯咖啡吧～
+作者微信：zhanchey 请注明来意
 
 <p align="center">
   <img src="docs/images/alipay.jpg" alt="alipay" width="200">
