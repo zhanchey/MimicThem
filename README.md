@@ -104,9 +104,11 @@ npm run dev
 2. 复制一个小红书图文链接
 
 <img src="docs/images/copy_link.jpg" alt="copy_link" width="300">
+
 3. 粘贴到输入框
 4. 点击「一键复刻」
 5. 等待处理完成，查看生成的图片和文案
+6. 所有生成的图片都保存在 `backend/data` 目录下
 
 ## 项目结构
 
