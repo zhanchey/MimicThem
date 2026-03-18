@@ -8,6 +8,8 @@
 
 输入小红书图文链接，使用字节seedream图像模型一键复刻爆款。
 
+B站介绍视频：【开源】MimicThem：一键复刻小红书爆款！-哔哩哔哩】 https://b23.tv/ag2eCca
+
 ![MimicThem Preview](https://img.shields.io/badge/MimicThem-AI%20Clone-purple)
 
 ![example](docs/images/example.png)
